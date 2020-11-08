@@ -4,7 +4,7 @@ Potential Research Topic
 <!-- Start TOC (do not remove me) -->
 - [Idea related to LST](#potential-topic-related-lst-in-siberian)
 - [idea related to Soil](#potential-topic-related-soil-mapping)
-  - [idea related to vegetation spatio-temporal dynamic](#topic-related-vegetation-dynamic-and-anomaly)
+- [idea related to vegetation spatio-temporal dynamic](#topic-related-vegetation-dynamic-and-anomaly)
 <!-- End TOC (do not remove me) -->
 
 
